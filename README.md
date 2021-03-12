@@ -26,7 +26,7 @@ Ethereum: [0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198](https://etherscan.io/toke
 
 - Team: 20.000 XOT ()
 - Bounty program : 25.000 XOT (for reporting bugs and taking care of very simple actions (reposts, etc..)
-- Developers program: 55.000 (for independent projects that are encourage/implementing XOT)
+- Developers program: 55.000 XOT (for independent projects that are encourage/implementing XOT)
 
 
 ## official links
