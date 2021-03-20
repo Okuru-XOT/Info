@@ -18,7 +18,7 @@ Ethereum: [0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198](https://etherscan.io/toke
 
 `150.000` XOT
 - 30.100,02 XOT in Сirculation
-- 119.899,98 XOT in Hold
+- 119.899,98 XOT on Hold
 
 ## ElsnerNORD supply
 
